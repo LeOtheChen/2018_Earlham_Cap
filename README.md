@@ -12,7 +12,7 @@
    - Naive_Bayes.py takes 2 csv files(condition values, growth rate), and predict with given conditions
 5. Plot
    - plot.py generates relational diagrams of each conditions with growth rate.
-Notes:
+6. Notes:
    - Run Naive_Bayes.py, it will load both condition and ratio file.
    
    - Although I have spend weeks working on Naive Bayes, but there is a bug in Naive_Bayes.py. However, test.py has the exactly the same strucutre and data type, it worked perfectly fine. I have consulted with my project advisor, Daivd Barbera, but no soultion yet. I may need to come back to fix this bug in the future.
